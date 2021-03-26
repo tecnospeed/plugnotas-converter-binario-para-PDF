@@ -1,7 +1,6 @@
 # PlugNotas - Exemplo em NODEJS e PHP para converter binário para PDF
 
-###Node
-
+Node
 ## install
 > npm i
 
@@ -9,7 +8,6 @@
 > node index.js
 
 
-###PHP
-
+PHP
 ## start
 > php -S localhost:8080
